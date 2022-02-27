@@ -1,0 +1,12 @@
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 2°SEMANA\DevInHouse---C-.Net---Semana2\GymAdministration\GymAdministration.Core\bin\Debug\net6.0\GymAdministration.Core.deps.json
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 2°SEMANA\DevInHouse---C-.Net---Semana2\GymAdministration\GymAdministration.Core\bin\Debug\net6.0\GymAdministration.Core.dll
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 2°SEMANA\DevInHouse---C-.Net---Semana2\GymAdministration\GymAdministration.Core\bin\Debug\net6.0\GymAdministration.Core.pdb
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 2°SEMANA\DevInHouse---C-.Net---Semana2\GymAdministration\GymAdministration.Core\obj\Debug\net6.0\GymAdministration.Core.csproj.AssemblyReference.cache
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 2°SEMANA\DevInHouse---C-.Net---Semana2\GymAdministration\GymAdministration.Core\obj\Debug\net6.0\GymAdministration.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 2°SEMANA\DevInHouse---C-.Net---Semana2\GymAdministration\GymAdministration.Core\obj\Debug\net6.0\GymAdministration.Core.AssemblyInfoInputs.cache
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 2°SEMANA\DevInHouse---C-.Net---Semana2\GymAdministration\GymAdministration.Core\obj\Debug\net6.0\GymAdministration.Core.AssemblyInfo.cs
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 2°SEMANA\DevInHouse---C-.Net---Semana2\GymAdministration\GymAdministration.Core\obj\Debug\net6.0\GymAdministration.Core.csproj.CoreCompileInputs.cache
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 2°SEMANA\DevInHouse---C-.Net---Semana2\GymAdministration\GymAdministration.Core\obj\Debug\net6.0\GymAdministration.Core.dll
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 2°SEMANA\DevInHouse---C-.Net---Semana2\GymAdministration\GymAdministration.Core\obj\Debug\net6.0\refint\GymAdministration.Core.dll
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 2°SEMANA\DevInHouse---C-.Net---Semana2\GymAdministration\GymAdministration.Core\obj\Debug\net6.0\GymAdministration.Core.pdb
+C:\Users\victor\Desktop\C# + .NET\KANBAN - 2°SEMANA\DevInHouse---C-.Net---Semana2\GymAdministration\GymAdministration.Core\obj\Debug\net6.0\ref\GymAdministration.Core.dll
